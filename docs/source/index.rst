@@ -4,7 +4,7 @@ Firebase WordPress Notifications
 .. meta::
    :description lang=en: Guide on how to integrate Firebase Cloud Messaging to WordPress.
 
-Last updated: Jan 23, 2022
+Last updated: Feb 06, 2022
 
 .. raw:: html
 
